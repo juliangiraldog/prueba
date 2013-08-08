@@ -1,0 +1,367 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.cont_01{
+	width:750px;
+	height:auto;
+	
+	}
+	
+.cont_01_01{
+	width:750px;
+	height:301px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_01.png);
+	}
+	
+.cont_01_02{
+	width:750px;
+	height:309px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_02.png);
+	}
+	
+.cont_01_03{
+	width:750px;
+	height:215px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_03.png);
+	}
+	
+.cont_01_04{
+	width:461px;
+	height:54px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_04.png);
+	}
+	
+.cont_01_05{
+	width:160px;
+	height:54px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_05.png);
+	cursor:pointer;
+	}
+	
+.cont_01_06{
+	width:129px;
+	height:54px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_06.png);
+	}
+	
+.cont_01_07{
+	width:750px;
+	height:121px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_01_07.png);
+	}
+	
+.cont_02{
+	  height: auto;
+    width: 750px;
+	}
+	
+.cont_02_01{
+	width:750px;
+	height:418px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_02_01.png);
+	}
+	
+.cont_02_02{
+	width:750px;
+	height:259px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_02_02.png);
+	}
+	
+.cont_02_03{
+	width:750px;
+	height:123px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_02_03.png);
+	}
+	
+.cont_03{
+	width:750px;
+	height:auto;
+	}
+	
+.cont_03_01{
+	width:750px;
+	height:437px;
+	position:relative;
+	background:url(../img/tab_03_01.png);
+    position: relative;
+	}
+	
+.cont_03_02{
+	width:750px;
+	height:837px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_03_02.png);
+	}
+	
+.cont_03_03{
+	width:750px;
+	height:126px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_03_03.png);
+	}
+	
+.cont_04{
+	width:750px;
+	height:auto;
+	}
+	
+.cont_04_01{
+	width:750px;
+	height:405px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_04_01.png);
+	}
+	
+.cont_04_02{
+	width:750px;
+	height:333px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_04_02.png);
+	}
+	
+.cont_04_03{
+	width:750px;
+	height:112px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_04_03.png);
+	}
+	
+.cont_05{
+	width:750px;
+	height:auto;
+	}
+	
+.cont_05_01{
+	width:750px;
+	height:437px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_05_01.png);
+	}
+	
+.cont_05_02{
+	width:750px;
+	height:283px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_05_02.png);
+	}
+	
+.cont_05_03{
+	width:750px;
+	height:130px;
+	position:relative;
+	float:left;
+	background:url(../img/tab_05_03.png);
+	}
+	
+.finalizar{
+	width:97px;
+	height:40px;
+	position:relative;
+	margin:0 auto;
+	background:url(../img/finalizar.png);
+	cursor:pointer;
+	margin-top:220px;
+	left:20px;
+	}
+
+input{
+	background: #F7F7F7;
+	border-radius:2px;
+	border:1px solid;
+	border-color:#666;
+	}
+	
+select{
+	background: #F7F7F7;
+	border-radius:2px;
+	border:1px solid;
+	border-color:#666;
+	}
+	
+.cont_ingreso{
+	width:400px;
+	height:auto;
+	margin:0 auto;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	margin-top:40px;
+	}
+	
+	
+.cont_ingresor .field_box{
+	float:left;
+	height:25px;
+	margin-bottom:10px;
+	text-align:center;
+	}
+	
+.cont_ingreso .field_txt{
+	width:200px;
+	float:left;
+	}
+	
+.cont_ingreso .campos{
+	width:180px;
+	float:left;
+	}
+	
+.btn_entrar{
+	width:180px;
+	float:right;
+	cursor:pointer;
+	}
+	
+.txt_ingreso{
+	width:400px;
+	text-align:center;
+	position: relative;
+	top: 3px;
+	float: left;
+	margin-bottom:30px;
+	}
+	
+.container{
+	position:relative;
+	width:550px;
+	height:800px;	
+	margin:0 auto;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	left:80px;
+	}
+	
+.field_box{
+	float:right;
+	height:25px;
+	margin-bottom:10px;
+	}
+	
+.field_txt{
+	width:180px;
+	float:left;
+	}
+	
+.campos{
+	width:370px;
+	float:left;
+	}
+	
+.date{
+	width:50px;
+	float:left;
+	margin-right:25px;
+	}
+	
+.sex{
+	width:90px;
+	float:left;
+	margin-right:25px;
+	}
+	
+.gato{
+	width:370px;
+	height:auto;
+	float:left;
+	margin-top:10px;
+	}
+	
+.perro{
+	width:370px;
+	height:auto;
+	float:left;
+	margin-top:10px;
+	}
+	
+.mascota_field_txt{
+	width:160px;
+	float:left;
+	margin-bottom:10px;
+	}
+	
+.mascota_campos{
+	width:190px;
+	float:left;
+	margin-bottom:10px;
+	}
+	
+.date_mascota{
+	width:50px;
+	float:left;
+	margin-right:10px;
+	}
+	
+.sex_mascota{
+	width:90px;
+	float:left;
+	}
+	
+.btn_enviar{
+	position:relative;
+	width:370px;
+	height:33px;
+	text-align:right;
+	cursor:pointer;	
+	}
+	
+.cont_tks{
+	width:500px;
+	height:auto;
+	position:relative;
+	margin:0 auto;
+	}
+	
+.tks_title{
+	position:relative;
+	width:500px;
+	height:30px;
+	text-align:center;
+	float:left;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	}
+	
+textarea{
+	width:500px;
+	height:200px;
+	position:relative;
+	float:left;
+	}
+	
+.tks_btn_enviar{
+	width:500px;
+	height:33px;
+	position:relative;
+	float:left;
+	cursor:pointer;
+	text-align:right;
+	margin-top:15px;	
+	}
+	
